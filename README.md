@@ -3,10 +3,9 @@
 Atividade 1 – Coleta e visualização de localizações
 Programação para Dispositivos Móveis I – Prof. Arley – Fatec
 
-## Integrantes
+## Integrante
 
-- NOME DO INTEGRANTE 1
-- NOME DO INTEGRANTE 2
+- Felipe Ferreira Pacheco
 
 ## O que o app faz
 
