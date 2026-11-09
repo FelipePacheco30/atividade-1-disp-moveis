@@ -55,3 +55,6 @@ app.*.map.json
 *.db-journal
 *.db-wal
 *.db-shm
+
+# Guia de estudo pessoal (só local)
+GUIA_DE_ESTUDO.md

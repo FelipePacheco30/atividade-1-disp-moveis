@@ -28,4 +28,3 @@ flutter analyze
 flutter test
 ```
 
-A explicação completa do código está em [GUIA_DE_ESTUDO.md](GUIA_DE_ESTUDO.md).
